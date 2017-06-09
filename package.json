@@ -1,0 +1,25 @@
+{
+  "name": "flow-stop-error",
+  "version": "0.1.0",
+  "description": "Useful JS module for simplifying promise code flow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebelz-il/flow-stop-error.git"
+  },
+  "keywords": [
+    "Javascript",
+    "js",
+    "promise",
+    "flow"
+  ],
+  "author": "Lior Homen <rebelz.il@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/rebelz-il/flow-stop-error/issues"
+  },
+  "homepage": "https://github.com/rebelz-il/flow-stop-error#readme"
+}

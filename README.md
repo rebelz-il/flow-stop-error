@@ -1,7 +1,6 @@
-# flow-stop-error
 flow-stop-error
 ===========
-# Useful JS module for simplifying promise code flow
+Useful JS module for simplifying promise code flow
 
 ## Example
 
@@ -31,6 +30,7 @@ return MethodA().then(res => {
   }).then ... 
 ```
 
-# Mozilla Public License Version 2.0
+## license
+Mozilla Public License Version 2.0
 
 Copyright © 2017 Rebelz LTD
